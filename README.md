@@ -8,9 +8,12 @@
 
 <img align='left' alt='python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
 <img align='left' alt='javascript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+
 <img alt='html5' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-<img alt='powershell' src='https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white'/>
 <img alt='css3' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
+
+<img alt='powershell' src='https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white'/>
+
 <img alt='jinja2' src='https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black'/>
 <img alt='markdown' src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white'/>
 
