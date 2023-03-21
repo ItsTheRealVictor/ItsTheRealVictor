@@ -24,9 +24,9 @@ In my 6+ years experience as an electronics technician, I've had success writing
 |:-------------|
 |<img align='left' alt='postgres' src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white'/><img align='left' alt='sqlite' src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white'/>|
 
-|Technologies|
+<!-- |Technologies|
 |:----------------|
-|<img align='left' alt='nodeJS' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/><img align='left' alt='npm' src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white'/><img align='left' alt='insomnia' src='https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE'/><img align='left' alt='arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'/>|
+|<img align='left' alt='nodeJS' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/><img align='left' alt='npm' src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white'/><img align='left' alt='insomnia' src='https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE'/><img align='left' alt='arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'/>| -->
 
 |Version Control|
 |:-----------------|
