@@ -2,7 +2,7 @@
 
 In my 6+ years experience as an electronics technician, I've had success writing Python scripts to help streamline and solidify my daily workflow. I am interested in graduating from writing short engineering scripts to developing large-scale front and back-end web applications.  
  
-<img width='47%' src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItsTheRealVictor&show_icons=true&theme=radical" />
+<!-- <img width='47%' src="https://github-readme-stats-sigma-five.vercel.app/api?username=ItsTheRealVictor&show_icons=true&theme=radical" />
 <!-- <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTheRealVictor&layout=compact" /> -->
 
 
