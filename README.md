@@ -6,6 +6,12 @@ In my 6+ years experience as an electronics technician, I've had success writing
 <!-- <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTheRealVictor&layout=compact" /> -->
 
 
+
+<!-- Badges are from https://github.com/Ileriayo/markdown-badges  -->
+
+
+
+
 |Main Languages|
 |:-------------|
 |<img align='left' alt='python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/><img align='left' alt='javascript' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>|
